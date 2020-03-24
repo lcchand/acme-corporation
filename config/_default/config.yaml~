@@ -1,0 +1,8 @@
+baseURL: http://example.org/                  # Hosting location.
+languageCode: en-us                           # Locale
+title: Acme Corporation                       # Name of the website
+publishDir: docs                              # Output folder
+enableEmoji: true                             # Enable Emojis in Markdown
+markup:                                       # Markup Options
+  highlight:                                  # Code highlighting defaults
+    lineNos: true                             # Enable line numbers

@@ -1,0 +1,10 @@
+author:                                       # Information about the website author
+theme: github.com/hugoinaction/Eclectic       # Name of the theme
+author:                                       # Information about the website author
+  facebook: "https://facebook.com/example"
+  twitter: "https://twitter.com/example"
+  email: "contact@example.org"
+  name: "Acme Corporation"
+  location: New York
+  phone: (999) 999-9999
+  hours: "**Mon-Fri:** 9:00AM - 6:00PM, ET"
