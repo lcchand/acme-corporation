@@ -1,0 +1,5 @@
+# config/_default/taxonomies.yaml
+# Taxonomies are defined as `<singular value>:<plural value>` in Hugo
+category: categories
+series: series
+tag: tags
